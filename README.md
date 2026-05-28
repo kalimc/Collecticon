@@ -12,4 +12,4 @@ When you use the "Track Package" feature, tapping the tracking link opens the ca
 
 If you export a backup, the file is created locally and shared only through methods you choose (AirDrop, Files, etc.).
 
-Contact: [your email address]
+Contact: mcintirekali@gmail.com
